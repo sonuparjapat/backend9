@@ -4,5 +4,11 @@
         "name":"s",
         "email":"2@gmail.com",
         "password":"123"
+    }],
+    "tracker":[{
+        "id":1,
+        "type":"sdfsjf",
+        "typename1":"fsfs",
+        "typename2":"sfs"
     }]
 }
