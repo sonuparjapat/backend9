@@ -10,5 +10,13 @@
         "type":"sdfsjf",
         "typename1":"fsfs",
         "typename2":"sfs"
+    }],
+    "grocery":[{
+        "id":"1",
+        "name":"haldi",
+        "price":40,
+        "description":"Its a haldi",
+        "quantity":1,
+        "image":"sfjsfsfs"
     }]
 }
